@@ -1,6 +1,6 @@
-# Mosaic Mark Scraper
+# Mosaic Grade Scraper
 
-Mosaic Mark Scraper is a simple script made in Python that periodically checks the McMaster website every 60 seconds and sends the user an e-mail if there are updates. Instructions are for a Windows system.
+Mosaic Grade Scraper is a simple script made in Python that periodically checks the McMaster website every 60 seconds and sends the user an e-mail if there are updates. Instructions are for a Windows system.
 
 ## Requirements
 
