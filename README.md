@@ -4,7 +4,7 @@ Mosaic Mark Scraper is a simple script made in Python that periodically checks t
 
 ## Requirements
 
-This script requires [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), as well as [requests](https://pypi.org/project/requests/)to be installed.
+This script requires [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), as well as [requests](https://pypi.org/project/requests/) to be installed.
 
 ```sh
 pip install beautifulsoup4
