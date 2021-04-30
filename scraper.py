@@ -48,7 +48,7 @@ starttime = time.time()
 Grades = get_grades()
 print("Initial courses and grade info: ")
 for grade in Grades:
-            print(grade.get_text())
+    print(grade.get_text())
 print("An e-mail will be sent if grades have been updated")
 
 while True:
