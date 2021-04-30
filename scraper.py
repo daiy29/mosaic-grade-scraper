@@ -57,6 +57,7 @@ while True:
         pass
     else:
         send_mail()
+        print("Grade update:")
         for grade in Grades2:
             print(grade.get_text())
 
