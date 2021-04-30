@@ -16,7 +16,11 @@ python -m pip install requests
 ## Usage
 
 Save the scraper.py file, cd into the directory it is saved.
-The script can be run with scraper.py arg1 arg2 arg3 arg4, where
+The script can be run with 
+```sh
+scraper.py <arg1> <arg2> <arg3> <arg4>
+```
+where
 - arg1 should be replaced by your Mosaic username
 - arg2 should be replaced by your Mosaic password
 - arg3 should be replaced by your Gmail username
